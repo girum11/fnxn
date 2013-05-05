@@ -1,0 +1,19 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="600" measuredH="571" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="318" y="61" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Map" x="354" y="206" w="211" h="181" measuredW="252" measuredH="222" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="418" y="170" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Location%20Finder</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="511" y="164" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>new_event%26bm%3Bnew_event.bmml%26bm%3Bnew_event.bmml%26bm%3Bnew_event.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C103%2C247%2C130%22%20href%3D%22new_event.bmml%22%20alt%3D%22new_event%22%20id%3D%223%22/%3E</map>
+        <text>Done</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

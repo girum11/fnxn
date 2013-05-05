@@ -1,0 +1,63 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="609" measuredH="540" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="327" y="30" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="363" y="326" w="-1" h="-1" measuredW="109" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Party%20%28Alcohol%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="441" y="184" w="133" h="-1" measuredW="79" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="363" y="187" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Event%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="434" y="136" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>New%20Event</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="__group__" x="388" y="234" w="186" h="62" measuredW="186" measuredH="62" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="53" y="0" w="133" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="-1" h="-1" measuredW="53" measuredH="21" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <text>Location</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="74" y="35" w="112" h="27" measuredW="112" measuredH="27" zOrder="2" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>2848996</color>
+            <href>location_finder%26bm%3Blocation_finder.bmml%26bm%3Blocation_finder.bmml%26bm%3Blocation_finder.bmml</href>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22135%2C239%2C247%2C266%22%20href%3D%22location_finder.bmml%22%20alt%3D%22location_finder%22%20id%3D%222%22/%3E</map>
+            <text>Location%20Finder</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="520" y="133" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>my_events%26bm%3Bmy_events.bmml%26bm%3Bmy_events.bmml%26bm%3Bmy_events.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C103%2C247%2C130%22%20href%3D%22my_events.bmml%22%20alt%3D%22my_events%22%20id%3D%2211%22/%3E</map>
+        <text>Done</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="355" y="133" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13576743</color>
+        <href>my_events%26bm%3Bmy_events.bmml%26bm%3Bmy_events.bmml%26bm%3Bmy_events.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2228%2C103%2C92%2C130%22%20href%3D%22my_events.bmml%22%20alt%3D%22my_events%22%20id%3D%2212%22/%3E</map>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

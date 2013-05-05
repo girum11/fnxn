@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="702" measuredH="542" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="420" y="32" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="453" y="139" w="-1" h="-1" measuredW="50" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>past_event%26bm%3Bpast_event.bmml%26bm%3Bpast_event.bmml%26bm%3Bpast_event.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2233%2C107%2C83%2C134%22%20href%3D%22past_event.bmml%22%20alt%3D%22past_event%22%20id%3D%221%22/%3E</map>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Webcam" x="455" y="174" w="212" h="190" measuredW="177" measuredH="146" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="461" y="377" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Taken%20by%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="461" y="413" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Taken%20by%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="525" y="377" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Girum%20Ibssa</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
